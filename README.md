@@ -4,12 +4,6 @@
   teknolojilerimle yazılım sektörüne giriş yapmaya çalışıyorum.
 </h3>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/githup.svg"
-    alt="klsali"
-  />
-</p>
 
 <p align="center">
   <img
@@ -125,23 +119,6 @@
   </a>
 </p>
 
----
-
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=klsali&show_icons=true&locale=en&layout=compact"
-    alt="klsali"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=klsali&show_icons=true&locale=en"
-    alt="klsali"
-  />
-</p>
 
 <p>
   <img
