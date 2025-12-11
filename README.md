@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=klsali&label=Profile%20views&color=0e75b6&style=flat"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/githup.svg"
     alt="klsali"
   />
 </p>
