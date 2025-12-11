@@ -5,12 +5,7 @@
 </h3>
 
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=klsali"
-    alt="klsali"
-  />
-</p>
+
 
 <p align="center">
   <a href="https://twitter.com/ali299465545864" target="_blank">
